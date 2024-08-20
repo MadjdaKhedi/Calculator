@@ -11,5 +11,5 @@ This is a simple calculator application built using Android Studio and Kotlin. T
 ## Screenshot
 
 <div align="center">
-    <img src="[https://github.com/user-attachments/assets/b7a9355a-c512-4601-b96f-6150607fb99d](https://github.com/user-attachments/assets/ac25649a-70e3-46bd-ad94-a86712678f8a)" alt="Screenshot of BMI App" width="300"/>
+    <img src="https://github.com/user-attachments/assets/0f25d20c-13a1-4e63-a840-7814166e5465" alt="Screenshot of Calculator App" width="300"/>
 </div>
